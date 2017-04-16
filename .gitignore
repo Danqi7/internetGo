@@ -1,0 +1,5 @@
+# Ignore everything
+*
+# except files ending with .go
+!.gitignore
+!*.go
